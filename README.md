@@ -1,1 +1,1 @@
-# medic-zero.github.io
+# medic-edit.github.io
